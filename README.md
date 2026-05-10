@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mahmut İs
+# Hi 👋, I'm Mahmut is
 
 ### Connect with me:
 
