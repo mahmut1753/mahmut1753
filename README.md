@@ -1,7 +1,10 @@
 # Hi 👋, I'm Mahmut İs
 
 ### Connect with me:
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/mahmutis)
+
+<a href="https://linkedin.com/in/mahmutis" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30"/>
+</a>
 
 ### Languages and Tools:
 
